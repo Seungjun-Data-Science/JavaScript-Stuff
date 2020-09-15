@@ -1,1 +1,1 @@
-### Web Development (JS, HTML, CSS, React etc.) Study Resources and Notes
+### Web Development (JS, HTML, CSS, React etc.) and Making Dashboards & More Presentable Notebooks - Study Resources and Notes
